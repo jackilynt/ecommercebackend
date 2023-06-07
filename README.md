@@ -26,8 +26,8 @@ Express.js
 MySQL
 Sequelize ORM
 JSON Web Tokens (JWT)
-Nodemon (for development)
-Postman (for API testing)
+VSCode (for development)
+Insomnia (for API testing)
 
 ###### Getting Started
 To get started with the project, follow these steps:
@@ -41,6 +41,7 @@ Set up the database connection:
 Create a MySQL database for the project.
 Update the database configuration in the .env file with your database credentials.
 Set the appropriate values for DB_NAME, DB_USER, and DB_PW.
+Note If developing from scratch clone this starter code https://github.com/coding-boot-camp/fantastic-umbrella
 
 ###### Usage
 Start the server: npm start or npm run dev (with nodemon for development).
