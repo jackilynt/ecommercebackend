@@ -36,7 +36,8 @@ To get started with the project, follow these steps:
 Clone the repository: git clone https://github.com/jackilynt/ecommercebackend.git
 Change to the project directory: cd ecommercebackend
 Install the dependencies: npm install
-Configuration
+
+###### Configuration
 Set up the database connection:
 Create a MySQL database for the project.
 Update the database configuration in the .env file with your database credentials.
